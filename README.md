@@ -1,2 +1,6 @@
 # CSharpCodeExercises
-Various exercises implemented in C# programming language. 
+=====================
+
+CSharpCodeExercises contains different programming exercises with solutions implemented in C# programming language. 
+
+
